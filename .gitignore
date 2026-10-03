@@ -1,0 +1,3 @@
+target/
+teensy4-rs/
+*.hex
