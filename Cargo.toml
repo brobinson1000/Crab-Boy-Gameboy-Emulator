@@ -1,0 +1,4 @@
+[workspace]
+resolver = "2"
+members = ["gb-core", "gb-desktop"]
+exclude = ["teensy4-rs", "firmware"]
